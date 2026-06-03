@@ -11,6 +11,6 @@ if angle3<=0:
     print(" Angles3 must be positive.")
     exit()
 if angle1 + angle2 + angle3 == 180:
-    print("The angles form a triangle.")
+    print("\n-------The angles form a triangle.-------")
 else:
-    print("The angles do not form a triangle.")
+    print("\n-------The angles do not form a triangle.-------")

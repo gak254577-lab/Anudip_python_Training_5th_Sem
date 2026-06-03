@@ -29,4 +29,4 @@ else:
     print("-----The angles do not form a triangle.-----")
 
 
-# python -u "CLASSWORK_PYTHON\SPECIFY TYPE OF TRIANGLE.py"
+# python -u "CLASSWORK_PYTHON\TYPES OF TRIANGLE.py"
