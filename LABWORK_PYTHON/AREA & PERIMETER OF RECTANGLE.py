@@ -8,3 +8,5 @@ if length > 0 and breadth > 0:
     print("Perimeter =", perimeter)
 else:
     print("Invalid Data! Length and Breadth must be positive.")
+
+##   python -u "LABWORK_PYTHON\AREA & PERIMETER OF RECTANGLE.py"

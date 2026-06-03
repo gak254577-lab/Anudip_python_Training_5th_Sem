@@ -7,3 +7,7 @@ if radius > 0:
     print("Perimeter =", perimeter)
 else:
     print("Invalid Data! Radius must be positive.")
+
+
+
+##   python -u "SELFLEARNING_PYTHON\AREA & PERIMETER OF CIRCLE.py"
