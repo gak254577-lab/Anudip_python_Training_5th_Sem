@@ -1,3 +1,11 @@
+## Problem Statement: A Strong Number is a number whose sum of factorials of digits equals the number itself. 
+# Write a program to check whether a given number is a Strong Number. 
+# Example: 
+# Input: 145 
+# Output: 
+# 145 is a Strong Number 
+
+
 import math
 
 num = int(input("Enter a number: "))

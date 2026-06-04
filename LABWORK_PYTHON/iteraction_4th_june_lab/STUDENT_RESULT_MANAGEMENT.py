@@ -1,3 +1,20 @@
+## Problem Statement: Accept marks of 5 subjects. 
+# Display: 
+# • Total Marks  
+# • Percentage  
+# • Grade  
+# Grade Criteria: 
+# Percentage Grade 
+# >=90 A+ 
+# >=75 A 
+# >=60 B 
+# >=40 C 
+# <40 Fail 
+# Also display the number of subjects failed. 
+
+
+
+
 total = 0
 failed = 0
 

@@ -1,3 +1,15 @@
+## Problem Statement: Accept a number from the user. 
+# Display: 
+# • Reverse Number  
+# • Whether it is a Palindrome  
+# Example: 
+# Input: 1221 
+# Output: 
+# Reverse: 1221 
+# Palindrome Number 
+
+
+
 num = int(input("Enter a number: "))
 temp = num
 reverse = 0

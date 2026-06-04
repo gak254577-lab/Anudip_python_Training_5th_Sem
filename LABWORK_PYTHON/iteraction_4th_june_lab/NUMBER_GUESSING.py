@@ -1,8 +1,14 @@
-import random
+## Problem Statement: Generate a secret number between 1 and 50. 
+## Allow the user to keep guessing until the correct number is found. 
+## Display: 
+# • "Too High"  
+# • "Too Low"  
+# • "Correct Guess"  
+# Also display the total number of attempts. import random
 
+from random import random
 secret = random.randint(1, 50)
 attempts = 0
-
 while True:
     guess = int(input("Enter your guess: "))
     attempts += 1
