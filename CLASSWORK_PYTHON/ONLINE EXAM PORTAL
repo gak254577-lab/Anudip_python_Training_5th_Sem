@@ -1,0 +1,15 @@
+print("-----ONLINE EXAM-----")
+
+while True:
+
+    marks = int(input("Enter Marks: "))
+
+    if marks >= 40:
+        print("Result: Pass")
+        print("Congratulations! You have cleared the assessment.")
+        break
+
+    print("Result: Fail")
+
+
+## python -u "CLASSWORK_PYTHON/ONLINE EXAM PORTAL.py"
