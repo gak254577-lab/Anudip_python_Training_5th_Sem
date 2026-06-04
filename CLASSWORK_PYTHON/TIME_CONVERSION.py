@@ -13,3 +13,6 @@ elif second >= 60:
     print(f"{minutes} minutes, {seconds} seconds")
 else:
     print(f"{second} seconds")
+
+
+## python -u "CLASSWORK_PYTHON/TIME CONVERSION.py"

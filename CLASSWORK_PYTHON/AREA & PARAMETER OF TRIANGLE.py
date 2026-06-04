@@ -10,4 +10,4 @@ perimeter=side1+side2+side3
 print("Perimeter of triangle is = ",perimeter,"cm")
 
 
-##  python -u "Area & Paramter of triangle.py"
+##  python -u "CLASSWORK_PYTHON/AREA & PARAMETER OF TRIANGLE.py"
