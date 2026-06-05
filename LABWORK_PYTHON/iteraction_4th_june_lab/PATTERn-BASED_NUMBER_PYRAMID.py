@@ -26,4 +26,4 @@ for i in range(rows, 0, -1):
 
 
 
-## python -u "LABWORK_PYTHON/PATTERn-BASED_NUMBER_PYRAMID.py"
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/PATTERn-BASED_NUMBER_PYRAMID.py"

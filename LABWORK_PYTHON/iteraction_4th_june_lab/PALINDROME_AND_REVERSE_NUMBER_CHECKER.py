@@ -29,4 +29,4 @@ else:
 
 
 
-## python -u "LABWORK_PYTHON/PALINDROME_AND_REVERSE_NUMBER_CHECKER.py"
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/PALINDROME_AND_REVERSE_NUMBER_CHECKER.py"

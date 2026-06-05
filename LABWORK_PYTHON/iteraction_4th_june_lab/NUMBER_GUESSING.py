@@ -26,4 +26,4 @@ while True:
 
 
 
-## python -u "LABWORK_PYTHON/NUMBER_GUESSING.py"
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/NUMBER_GUESSING.py"

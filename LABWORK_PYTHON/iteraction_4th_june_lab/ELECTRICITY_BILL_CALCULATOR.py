@@ -31,4 +31,4 @@ while True:
 
 
 
-## python -u "LABWORK_PYTHON/ELECTRICITY_BILL_CALCULATOR.py"
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/ELECTRICITY_BILL_CALCULATOR.py"

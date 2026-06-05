@@ -22,4 +22,4 @@ print("Grade:", grade)
 
 
 
-## python -u "LABWORK_PYTHON/MINI_EMPLOYEE_PAYROLL_SYSTEM.py"
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/MINI_EMPLOYEE_PAYROLL_SYSTEM.py"

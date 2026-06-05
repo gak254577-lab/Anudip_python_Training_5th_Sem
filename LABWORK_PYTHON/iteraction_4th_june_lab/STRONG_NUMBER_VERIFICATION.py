@@ -26,4 +26,4 @@ else:
 
 
 
-## python -u "LABWORK_PYTHON/STRONG_NUMBER_VERIFICATION.py" 
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/STRONG_NUMBER_VERIFICATION.py" 

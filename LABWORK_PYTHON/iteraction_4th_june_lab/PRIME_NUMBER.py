@@ -21,4 +21,4 @@ else:
     print("Factors:", *factors)
     print(n, "is not a Prime Number")
 
-## python -u "LABWORK_PYTHON/PRIME_NUMBER.py"
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/PRIME_NUMBER.py"

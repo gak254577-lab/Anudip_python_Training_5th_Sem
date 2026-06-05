@@ -49,4 +49,4 @@ while True:
 
 
 
-## python -u "LABWORK_PYTHON/ATM_STIMULATION_SYSTEM.py"
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/ATM_STIMULATION_SYSTEM.py"

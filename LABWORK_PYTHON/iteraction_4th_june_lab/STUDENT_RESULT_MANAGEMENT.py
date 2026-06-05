@@ -47,4 +47,4 @@ print("Failed Subjects:", failed)
 
 
 
-## python -u "LABWORK_PYTHON/STUDENT_RESULT_MANAGEMENT.py"
+## python -u "LABWORK_PYTHON/interaction_4th_june_lab/STUDENT_RESULT_MANAGEMENT.py"
